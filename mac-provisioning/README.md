@@ -254,9 +254,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 💬 **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/mac-provisioning/issues)
-- 📧 **Email**: your.email@example.com
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- 💬 **Issues**: [GitHub Issues](https://github.com/kentstone84/mac-provisioning/issues)
+- 📧 **Email**: kent.stone@gmail.com    
 
 ---
 
