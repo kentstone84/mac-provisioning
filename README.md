@@ -1,8 +1,3 @@
-That’s a solid start 👍, but let me tighten it up so it reads more like a polished GitHub project (and a bit friendlier for future-you or anyone else who uses it).
-
-Here’s an improved version of your **README.md**:
-
-````markdown
 # 🍎 Mac Provisioning Kit
 
 Bootstrap a fresh macOS into a full developer machine with one script.  
