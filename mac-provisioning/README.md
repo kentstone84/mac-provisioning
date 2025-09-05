@@ -92,13 +92,10 @@ mac-provisioning/
 ├── 📦 Brewfile              # Homebrew package definitions
 ├── 🐚 zshrc_additions       # Shell configuration and aliases
 ├── 🍎 macos_defaults.sh     # macOS system preferences
-├── 📝 README.md             # This file
-├── ⚙️  configs/
-│   ├── .gitconfig           # Global Git configuration
-│   └── .gitignore_global    # Global Git ignore rules
-└── 📚 docs/
-    ├── customization.md     # How to customize the setup
-    └── troubleshooting.md   # Common issues and solutions
+|── 📝 README.md             # This file
+│── .gitconfig           # Global Git configuration
+|── .gitignore_global    # Global Git ignore rules
+
 ```
 
 ## 🎛️ Customization
